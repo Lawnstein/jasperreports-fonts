@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+
+	<fontFamily name="DejaVu Sans">
+		<normal>net/sf/jasperreports/fonts/dejavu/DejaVuSans.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Oblique.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSans-BoldOblique.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+		<!--
+		<locales>
+			<locale>en_US</locale>
+			<locale>de_DE</locale>
+		</locales>
+		-->
+	</fontFamily>
+
+	<fontFamily name="DejaVu Serif">
+		<normal>net/sf/jasperreports/fonts/dejavu/DejaVuSerif.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Italic.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Serif', 'Times New Roman', Times, serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="DejaVu Sans Mono">
+		<normal>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-Oblique.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>
+		</exportFonts>
+	</fontFamily>
+
+	<!--
+		Mapping Java logical fonts, for the sake of HTML export only.
+	-->
+	
+	<fontFamily name="SansSerif">
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+	<fontFamily name="Serif">
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Serif', 'Times New Roman', Times, serif</export>
+		</exportFonts>
+	</fontFamily>
+	<fontFamily name="Monospaced">
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>
+		</exportFonts>
+	</fontFamily>
+	
+	<!-- asian -->
+	<fontFamily name="宋体">
+		<normal>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'宋体', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'宋体', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+	
+  <fontFamily name="华文宋体">
+    <normal>fonts/STSONG.TTF</normal>
+    <bold>fonts/STSONG.TTF</bold>
+    <italic>fonts/STSONG.TTF</italic>
+    <boldItalic>fonts/STSONG.TTF</boldItalic>
+    <pdfEncoding>Identity-H</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'华文宋体', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'华文宋体', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="楷体">
+		<normal>net/sf/jasperreports/fonts/dejavu/simkai.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/simkai.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/simkai.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/simkai.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'楷体', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'楷体', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="黑体">
+		<normal>net/sf/jasperreports/fonts/dejavu/simhei.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/simhei.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/simhei.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/simhei.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'黑体', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'黑体', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+	
+	<fontFamily name="仿宋">
+		<normal>net/sf/jasperreports/fonts/dejavu/simfang.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/simfang.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/simfang.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/simfang.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'仿宋', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'仿宋', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="隶书">
+		<normal>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'隶书', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'隶书', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+	
+	<fontFamily name="微软雅黑">
+		<normal>net/sf/jasperreports/fonts/dejavu/msyh.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/msyhbd.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/msyh.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/msyhbd.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'微软雅黑', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'微软雅黑', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+	
+	<fontFamily name="Helvetica">
+		<normal>net/sf/jasperreports/fonts/dejavu/Helvetica_0.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/Helvetica_Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/Helvetica_0.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/Helvetica_Bold.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'Helvetica', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'Helvetica', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+	
+</fontFamilies>

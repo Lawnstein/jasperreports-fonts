@@ -79,10 +79,10 @@
 	</fontFamily>
 	
   <fontFamily name="华文宋体">
-    <normal>fonts/STSONG.TTF</normal>
-    <bold>fonts/STSONG.TTF</bold>
-    <italic>fonts/STSONG.TTF</italic>
-    <boldItalic>fonts/STSONG.TTF</boldItalic>
+    <normal>net/sf/jasperreports/fonts/dejavu/STSONG.ttf</normal>
+    <bold>net/sf/jasperreports/fonts/dejavu/STSONG.ttf</bold>
+    <italic>net/sf/jasperreports/fonts/dejavu/STSONG.ttf</italic>
+    <boldItalic>net/sf/jasperreports/fonts/dejavu/STSONG.ttf</boldItalic>
     <pdfEncoding>Identity-H</pdfEncoding>
     <pdfEmbedded>true</pdfEmbedded>
 		<exportFonts>
@@ -131,10 +131,10 @@
 	</fontFamily>
 
 	<fontFamily name="隶书">
-		<normal>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</normal>
-		<bold>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</bold>
-		<italic>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</italic>
-		<boldItalic>net/sf/jasperreports/fonts/dejavu/SIMLI.TTF</boldItalic>
+		<normal>net/sf/jasperreports/fonts/dejavu/SIMLI.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/SIMLI.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/SIMLI.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/SIMLI.ttf</boldItalic>
 		<pdfEncoding>Identity-H</pdfEncoding>
 		<pdfEmbedded>true</pdfEmbedded>
 		<exportFonts>
@@ -159,7 +159,7 @@
 	<fontFamily name="Helvetica">
 		<normal>net/sf/jasperreports/fonts/dejavu/Helvetica_0.ttf</normal>
 		<bold>net/sf/jasperreports/fonts/dejavu/Helvetica_Bold.ttf</bold>
-		<italic>net/sf/jasperreports/fonts/dejavu/Helvetica_0.ttf</italic>
+		<italic>net/sf/jasperreports/fonts/dejavu/Helvetica_Oblique.ttf</italic>
 		<boldItalic>net/sf/jasperreports/fonts/dejavu/Helvetica_Bold.ttf</boldItalic>
 		<pdfEncoding>Identity-H</pdfEncoding>
 		<pdfEmbedded>true</pdfEmbedded>

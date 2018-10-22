@@ -11,3 +11,5 @@ the <WINDOWS>\Fonts directory.
 
 1. add ttf to net\sf\jasperreports\fonts\dejavu
 2. edit net\sf\jasperreports\fonts\fonts.xml
+3. mvn clean install 
+4. mvn deploy

@@ -67,14 +67,14 @@
 	<!-- asian -->
 	<fontFamily name="宋体">
 		<normal>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</normal>
-		<bold>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</bold>
+		<bold>net/sf/jasperreports/fonts/dejavu/SimSun-Bold.ttf</bold>
 		<italic>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</italic>
 		<boldItalic>net/sf/jasperreports/fonts/dejavu/SimSun.ttf</boldItalic>
 		<pdfEncoding>Identity-H</pdfEncoding>
 		<pdfEmbedded>true</pdfEmbedded>
 		<exportFonts>
-			<export key="net.sf.jasperreports.html">'宋体', Arial, Helvetica, sans-serif</export>
-			<export key="net.sf.jasperreports.xhtml">'宋体', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.html">'宋体', Arial, SimSun, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'宋体', Arial, SimSun, sans-serif</export>
 		</exportFonts>
 	</fontFamily>
 	
